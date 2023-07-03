@@ -13,7 +13,8 @@ N/A
 https://amattock.github.io/Password-Generator/
 
 ## Credits
-N/A
+
+Aspects of variables (number, uppercase, lowercase, special characheters) and prompt script where utilized from this author - https://github.com/njthanhtrang/3.-JavaScript-Challenge-Password-Generator
 
 ## License
 MIT License
