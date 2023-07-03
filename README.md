@@ -1,19 +1,21 @@
 # Password-Generator
+This is a random password generator created by Alex Mattock
+
+## Description
+The random password generator requires input from the user to define the password length, uppercase, lowercase, and use of special characters. Once this criteria has been met, the script uses math.floor to generate a ranom password for the user.
 
 
-#Description
-
-
-#Installation
+## Installation
 N/A
 
-#Usage
-This wepage is designed to be used by potential employers or other interested parties.
+## Usage
 
-#Credits
+https://amattock.github.io/Password-Generator/
+
+## Credits
 N/A
 
-#License
+## License
 MIT License
 
 Copyright (c) 2023 amattock
